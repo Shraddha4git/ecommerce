@@ -15,9 +15,11 @@ Use-Case Diagram
 ![image](https://github.com/Shraddha4git/ecommerce/assets/109404381/ca3aa855-8d29-49b0-9be9-2ea99a3ccb3e)
 
 Activity Diagram
+
 ![image](https://github.com/Shraddha4git/ecommerce/assets/109404381/ab2b7adb-3dbe-4ea9-9fcc-4328ca27764f)
 
 The following are screenshots of the project webpages. 
+
 Home Page 
 ![image](https://github.com/Shraddha4git/ecommerce/assets/109404381/09cf02a7-c1da-43e7-a820-87c6a2b11dd7)
 
